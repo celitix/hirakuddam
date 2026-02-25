@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Hirakud Dam | Longest Dam In The World | Dams In India | Hirakud",
   description: "Hirakud Dam is one of the longest dam in the world. Constructed on Mahanadi River this is historic dam in india, situated near Sambalpur District of Odisha",
+    alternates: {
+    canonical: "https://www.hirakuddam.com/",
+  },
    icons: {
     icon: [
       { url: '/hirakud-32x32.png', sizes: '32x32', type: 'image/png' },
